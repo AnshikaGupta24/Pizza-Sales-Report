@@ -89,8 +89,11 @@ This dashboard can be used by:
 
 Home Page
 
+Home Page.png
 
 Best/Worst Seller Page
+
+Best-Worst Seller Page.png
 
 
 ## 📬 Contact
