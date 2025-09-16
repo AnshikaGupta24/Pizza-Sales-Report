@@ -8,6 +8,12 @@
 This is an interactive Pizza Sales Dashboard project built using Power BI for data visualization and SQL for data processing. The dashboard offers valuable insights into sales performance, customer preferences, and pizza popularity by category and size. The project demonstrates how raw sales data can be transformed into a powerful decision-making tool for business stakeholders.
 
 
+https://github.com/AnshikaGupta24/Pizza-Sales-Report/blob/0bd581467783783d1abf1ef03e8abaecb5737290/Home%20Page.png
+
+
+
+
+
 ## 📊 Key Insights from the Dashboard
 
 The dashboard is organized into two main pages:
