@@ -11,7 +11,7 @@ This is an interactive Pizza Sales Dashboard project built using Power BI for da
 ![image alt](https://github.com/AnshikaGupta24/Pizza-Sales-Report/blob/0bd581467783783d1abf1ef03e8abaecb5737290/Home%20Page.png)
 
 
-![]image alt](https://github.com/AnshikaGupta24/Pizza-Sales-Report/blob/23b70f2986435062b48cdf66054d49e77ba83c21/Best-Worst%20Seller%20Page.png)
+![image alt](https://github.com/AnshikaGupta24/Pizza-Sales-Report/blob/23b70f2986435062b48cdf66054d49e77ba83c21/Best-Worst%20Seller%20Page.png)
 
 
 
